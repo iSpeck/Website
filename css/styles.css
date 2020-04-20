@@ -178,7 +178,7 @@ div h3{
 
 
 /* *******************responsive section*********************************** */
-@media(max-width:568px){
+@media(max-width:770px){
     .parallax-top,.parallax-middle,.parallax-bottom{
         background-attachment:scroll;
     }
